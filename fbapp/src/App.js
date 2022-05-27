@@ -56,7 +56,7 @@ function App() {
               <NavDropdown title={userObj.username} id="nav-dropdown">
                 <NavDropdown.Item onClick={userLogout}>Logout</NavDropdown.Item>
                 <NavDropdown.Item >
-                changepassword
+                changepassword bhavik
                 </NavDropdown.Item>
               </NavDropdown>
             </>
